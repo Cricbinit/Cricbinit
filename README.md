@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cricbinit
+- 👋 Hi, I’m @vivekKumar
 - 👀 I’m interested in ...web development
-- 🌱 I’m know JavaScript, HTML, CSS, MongoDB, SQL, Java ... Reactjs
+- 🌱 I know JavaScript, HTML, CSS, MongoDB, Redux, MongoDB, EXpressjs, Reactjs, Nodejs
     
 
 - 💞️ I’m looking to collaborate on ...many projects that is related to web development
